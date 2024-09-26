@@ -2,6 +2,10 @@
 
 **RYE Education - Raise Your English** is a website for an English language school. It presents our teaching models, pricing, and available plans. The site offers a user-friendly interface to explore our educational services and tailored learning experiences for students of all levels.
 
+## Live Demo
+
+You can visit the live version of the site here: **[RYE Education GitHub Pages](https://paula-carlech.github.io/RYE-Education/)**
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e8fa75b7-e615-4e35-85f9-8107a9d51f52" alt="RYE" width="300">
 </p>
